@@ -1,0 +1,5 @@
+1. ✅MUST-DO ALGORITHMS for CODING ROUNDS CR Sheet: http://bit.ly/striverCRSheet
+2. ✅SDE Sheet: https://bit.ly/takeUforward_SDE
+3. ✅CP Sheet:https://bit.ly/tuf_CPList 
+4. ✅MUST-DO Questions for Interviews (DBMS, CN and OS) Sheet: https://docs.google.com/document/d/1sQlRDw6--HwyxeFL7b4kBsOG-Tz7rXMbpWNnfvJErA4/edit
+5. 

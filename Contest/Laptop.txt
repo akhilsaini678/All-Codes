@@ -1,0 +1,13 @@
+Pros :
+1. Display is above exception. It looks like a amoled display colorwise.
+   This one I found out really great.
+2. Boot up time is : max(12 sec).
+3. Fingerprint : max(less than 1 sec).
+4. Backlit keyboard looks really nice.
+5. Battery backup is around 5-6 hours (at least for now).
+6. Keyboard is also really good.( May be keyboard is looking really nice to me because before this the keyboard on HP was really bad , but I never feel like it that was bad but now after using it I can see the difference , and its huge ).
+7. It is really light weight (1.41 kg).
+
+Cons : 
+1. Camera is not as good as I expected.
+2. 256 gb SSD , it should be 512.
