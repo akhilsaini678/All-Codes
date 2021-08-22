@@ -28,7 +28,7 @@ const                      ll inf = 1e18+1 , mod=1e9+7;
 
 void solve()
 {
-    debug;
+    cout<<"Hello"<<endl;
 }
 
 
